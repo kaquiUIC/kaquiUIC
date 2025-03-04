@@ -1,4 +1,12 @@
-## Hi there 👋
+## print("Welcome to My Profile! 👋");
+
+  ⤷ Hi! My name is Kaitlyn Aquino, and I'm a Computer Science and Design student at UIC.
+  
+  ⤷ __Interests__: Graphic Design, Cooking, Game Development
+
+  ⤷ __Currently Learning__: C++ and C
+
+  ⤷ __Currently Working On__: Nothing at the moment!
 
 <!--
 **kaquiUIC/kaquiUIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
